@@ -14,7 +14,7 @@
 
 #### Web
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" align="Left">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" align="Left"><br>
 
 
 ### Project 📒
