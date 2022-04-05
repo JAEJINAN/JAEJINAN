@@ -17,11 +17,9 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" align="Left">
 
 
-
-
 ### Project 📒
 
-맞춤 의상 추천 시스템
+- 맞춤 의상 추천 시스템
 
 ### Education ✏
 
